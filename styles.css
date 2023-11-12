@@ -1,0 +1,45 @@
+/* Custom Styles for Marston Technologies */
+.wrapper {
+    /*font-family: 'Your Art Deco Style Font', sans-serif;*/
+    color: #003366; /* Navy Blue */
+    background-color: #f4f4f4; /* A lighter shade that complements Navy Blue */
+}
+
+.header {
+    background-color: #003366; /* Navy Blue */
+    padding: 20px 0;
+}
+
+.navbar {
+    border-bottom: solid 3px #C0C0C0; /* Silver */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #C0C0C0; /* Silver */
+}
+
+.nav-link {
+    color: #C0C0C0; /* Silver */
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #fff; /* White for hover effect */
+}
+
+.hero-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero-section h1 {
+    font-size: 3em;
+    color: #C0C0C0; /* Silver */
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.5em;
+    color: #fff;
+}
